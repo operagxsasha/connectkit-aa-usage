@@ -164,7 +164,7 @@ Here is a list of supported smart accounts and their corresponding versions and 
   - **Version**: `1.0.0`
   - **Chain IDs**: Specify relevant chain IDs as needed.
 
-- **`SIMPLE`**: A [SimpleAccount Implementation](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/samples/SimpleAccount.sol).
+- **`SIMPLE`**: A [SimpleAccount Implementation](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/accounts/SimpleAccount.sol).
   - **Versions**: `1.0.0`, `2.0.0`
   - **Chain IDs**: Specify relevant chain IDs as needed.
 
